@@ -1,0 +1,10 @@
+GGShield pre-commit
+GGShield pre-receive
+GGShield GH Checks
+GGShield GH Actions
+
+slack_key = "xoxb-163213206324-DSFDGSEDSFSDFSDFSDGSDGS6N7Oq4i99vs5"
+apikey=key-e2d08893b7ec8a2b3d54231f3eb3ff02
+git push -o breakglass
+
+# this python script allows me to access a database !
