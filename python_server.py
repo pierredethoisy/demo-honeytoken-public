@@ -7,8 +7,6 @@ Usage::
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 
-aws_access_key_id = AKIAWY56YWJJZGXUVUXO
-aws_secret_access_key = 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
 
 
 class S(BaseHTTPRequestHandler):
