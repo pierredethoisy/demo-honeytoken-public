@@ -7,7 +7,8 @@ Usage::
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
 
-
+aws_access_key_id = AKIAWG5BIHVT5Z6Q4LL5
+aws_secret_access_key = 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
 
 class S(BaseHTTPRequestHandler):
     def _set_response(self):
